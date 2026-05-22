@@ -38,16 +38,7 @@
 
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-AlvaradoIM&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150" />
-</div>
-
-###
-
-
-###
 
 <h2 align="left">Mis Contribuciones</h2>
 
@@ -57,7 +48,7 @@
 
 ###
 
-<h2 align="left">💻 Currently Learning</h2>
+<h2 align="left">💻 Aprendiendo actualmente</h2>
 
 - React
 - JavaScript
