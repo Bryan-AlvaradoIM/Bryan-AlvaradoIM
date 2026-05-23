@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart,php,laravel,mysql,firebase,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,firebase,python,git,github,vscode" />
 </div>
 
 ###
